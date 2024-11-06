@@ -4,7 +4,7 @@ This little project reads analogue clocks by generating every possbile clockface
 
 ## Limitations
 
-Currently, the following assumptions arem made:
+Currently, the following assumptions are made:
 - The clock is perfectly centerd in the image
 - The clock hands are straight lines and dark
 - The thrid clock hand is missing or has necligible visual impact
