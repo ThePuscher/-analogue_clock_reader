@@ -5,6 +5,6 @@ This little project reads analogue clocks by generating every possbile clockface
 ## Limitations
 
 Currently, the following assumptions are made:
-- The clock is perfectly centerd in the image
+- The clock is round and its boundary is detectable in the image
+- The clock is photographed from the front
 - The clock hands are straight lines and dark
-- The thrid clock hand is missing or has necligible visual impact
